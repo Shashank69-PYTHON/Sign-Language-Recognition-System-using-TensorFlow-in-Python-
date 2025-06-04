@@ -1,4 +1,4 @@
-Sign-Language-Recognition-System-using-TensorFlow-in-Python-
+Sign-Language-Recognition-System-using-TensorFlow-in-Python-https://drive.google.com/drive/u/0/my-drive DATA SET LINK TO DOWNLOAD
 step-1
 Importing Libraries-
 Python, importing libraries means bringing in external modules or packages so that you can use pre-written code instead of writing everything from scratch. Libraries contain useful functions, classes, and variables that help in tasks like math operations, data analysis, machine learning, and web development.
